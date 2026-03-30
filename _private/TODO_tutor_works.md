@@ -1,6 +1,3 @@
-### Before Tutoring Session
-- AI (LLM) 구매 내역 영수증 수집. > (2026.08 말) 15만원 한도 지원.
-
 ### Matched Tutees' Info.
 // Deleted: tutees' private info.
 
@@ -13,16 +10,17 @@
 
 ### After Each Tutoring Session
 > (7일 이내) 서류 제출.
-
-1. 튜터 활동 보고서
-	- 진행 내용 summary
-	- 피드백 summary
-2. (AI 사용한 경우) AI 활용 기록
-	- 사용 도구 (e.g. claude)
-	- 검토 내용 (튜터 이중 체크)
+- 2026-1_튜터링_활동보고서_MM.DD.docx
+	- 활동 내용
+	- 활동 사진 증빙
+	- AI 활용 기록
+- 제출처: // Deleted: staff's email address.
+- 제목 형식: [튜터링 활동보고] 교과목명_회차_이름
 
 ### ~06/12 (DGIST 종강일)
-- 결과 보고서
-- 사후 설문지
+- 결과 보고서 (추후 양식 release)
+- 사후 설문지 (추후 링크 release)
 
 제출.
+
+서류 확인 후 수료 여부를 개별 통보, 수료 확인 후 15만원을 개인 계좌로 지급.
